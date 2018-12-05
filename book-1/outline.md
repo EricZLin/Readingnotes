@@ -7,3 +7,5 @@
 #### 三、[变量、作用域和内存问题](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-3.md)
 
 #### 四、[引用类型](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-4.md)
+
+#### 五、[面向对象的程序设计](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-5.md)
