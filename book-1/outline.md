@@ -9,3 +9,5 @@
 #### 四、[引用类型](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-4.md)
 
 #### 五、[面向对象的程序设计](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-5.md)
+
+#### 六、[函数表达式](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-6.md)
