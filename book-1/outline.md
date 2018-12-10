@@ -11,3 +11,5 @@
 #### 五、[面向对象的程序设计](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-5.md)
 
 #### 六、[函数表达式](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-6.md)
+
+#### 七、[BOM(浏览器对象模型)](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-7.md)
