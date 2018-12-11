@@ -13,3 +13,5 @@
 #### 六、[函数表达式](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-6.md)
 
 #### 七、[BOM(浏览器对象模型)](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-7.md)
+
+#### 八、[客户端检测](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-8.md)
