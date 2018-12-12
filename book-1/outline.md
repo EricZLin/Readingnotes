@@ -15,3 +15,5 @@
 #### 七、[BOM(浏览器对象模型)](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-7.md)
 
 #### 八、[客户端检测](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-8.md)
+
+#### 九、[DOM(文档对象模型)](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-9.md)
