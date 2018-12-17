@@ -19,3 +19,5 @@
 #### 九、[DOM(文档对象模型)](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-9.md)
 
 #### 十、[DOM扩展](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-10.md)
+
+#### 十、[DOM2和DOM3](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-11.md)
