@@ -20,4 +20,4 @@
 
 #### 十、[DOM扩展](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-10.md)
 
-#### 十、[DOM2和DOM3](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-11.md)
+#### 十一、[DOM2和DOM3](https://github.com/EricZLin/Readingnotes/blob/master/book-1/chapter-11.md)
